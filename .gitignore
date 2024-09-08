@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/webrtc/.vs/webrtc
+/webrtc/Debug
+/webrtc/webrtc/Debug
+/webrtc/webrtc/x64/Debug

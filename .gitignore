@@ -3,6 +3,8 @@
 ################################################################################
 
 /webrtc/.vs/webrtc
+/webrtc/
 /webrtc/Debug
 /webrtc/webrtc/Debug
 /webrtc/webrtc/x64/Debug
+/webrtc/x64/Debug
